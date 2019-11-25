@@ -1,0 +1,57 @@
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("Name?");
+        String name_str = sc.nextLine();
+        
+		System.out.println("Age?");
+        String age_str = sc.nextLine();
+        
+		System.out.println("Club?");
+        String club_str = sc.nextLine();
+//        
+//		System.out.println("Nation?");
+//        String nation_str = sc.nextLine();
+//        
+//		System.out.println("Position?");
+//        String pos_str = sc.nextLine();
+//        
+//		System.out.println("Market value?");
+//        String value_str = sc.nextLine();
+        
+        
+		
+		File xmlfile = new File("premierLeaguePlayerNames.xml");
+		
+		DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
+        DocumentBuilder db = dbf.newDocumentBuilder();
+
+        Document doc = db.parse(xmlfile);
+        Element root = doc.getDocumentElement();
+        
+        
+        Element row = doc.createElement("row");
+        
+        
+        Element newName = doc.createElement("name");
+        newName.appendChild(doc.createTextNode(name_str));
+        row.appendChild(newName);
+        
+        
+        Element newAge = doc.createElement("age");
+        newAge.appendChild(doc.createTextNode(age_str));
+        newName.appendChild(newAge);
+        
+        
+        Element newClub = doc.createElement("club");
+        newClub.appendChild(doc.createTextNode(club_str));
+        newAge.appendChild(newClub);        
+        
+        
+//        root.appendChild(row);
+        
+        
+        DOMSource source = new DOMSource(doc);
+        TransformerFactory transformerFactory = TransformerFactory.newInstance();
+        Transformer transformer = transformerFactory.newTransformer();
+        StreamResult result = new StreamResult("premierLeaguePlayerNames.xml");
+        transformer.transform(source, result);

@@ -1,0 +1,2314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+<row/>
+<name>Alexis Sanchez</name>
+<club>Arsenal</club>
+<age>28</age>
+<market_value>65.0</market_value>
+<nationality>Chile</nationality>
+<name>Mesut Ozil</name>
+<club>Arsenal</club>
+<age>28</age>
+<market_value>50.0</market_value>
+<nationality>Germany</nationality>
+<name>Petr Cech</name>
+<club>Arsenal</club>
+<age>35</age>
+<market_value>7.0</market_value>
+<nationality>Czech Republic</nationality>
+<name>Theo Walcott</name>
+<club>Arsenal</club>
+<age>28</age>
+<market_value>20.0</market_value>
+<nationality>England</nationality>
+<name>Laurent Koscielny</name>
+<club>Arsenal</club>
+<age>31</age>
+<market_value>22.0</market_value>
+<nationality>France</nationality>
+<name>Hector Bellerin</name>
+<club>Arsenal</club>
+<age>22</age>
+<market_value>30.0</market_value>
+<nationality>Spain</nationality>
+<name>Olivier Giroud</name>
+<club>Arsenal</club>
+<age>30</age>
+<market_value>22.0</market_value>
+<nationality>France</nationality>
+<name>Nacho Monreal</name>
+<club>Arsenal</club>
+<age>31</age>
+<market_value>13.0</market_value>
+<nationality>Spain</nationality>
+<name>Shkodran Mustafi</name>
+<club>Arsenal</club>
+<age>25</age>
+<market_value>30.0</market_value>
+<nationality>Germany</nationality>
+<name>Alex Iwobi</name>
+<club>Arsenal</club>
+<age>21</age>
+<market_value>10.0</market_value>
+<nationality>Nigeria</nationality>
+<name>Granit Xhaka</name>
+<club>Arsenal</club>
+<age>24</age>
+<market_value>35.0</market_value>
+<nationality>Switzerland</nationality>
+<name>Alex Oxlade-Chamberlain</name>
+<club>Arsenal</club>
+<age>23</age>
+<market_value>22.0</market_value>
+<nationality>England</nationality>
+<name>Jack Wilshere</name>
+<club>Arsenal</club>
+<age>25</age>
+<market_value>18.0</market_value>
+<nationality>England</nationality>
+<name>Aaron Ramsey</name>
+<club>Arsenal</club>
+<age>26</age>
+<market_value>35.0</market_value>
+<nationality>Wales</nationality>
+<name>Francis Coquelin</name>
+<club>Arsenal</club>
+<age>26</age>
+<market_value>15.0</market_value>
+<nationality>France</nationality>
+<name>Gabriel Paulista</name>
+<club>Arsenal</club>
+<age>26</age>
+<market_value>13.0</market_value>
+<nationality>Brazil</nationality>
+<name>Kieran Gibbs</name>
+<club>Arsenal</club>
+<age>27</age>
+<market_value>10.0</market_value>
+<nationality>England</nationality>
+<name>Santi Cazorla</name>
+<club>Arsenal</club>
+<age>32</age>
+<market_value>12.0</market_value>
+<nationality>Spain</nationality>
+<name>Danny Welbeck</name>
+<club>Arsenal</club>
+<age>26</age>
+<market_value>15.0</market_value>
+<nationality>England</nationality>
+<name>Rob Holding</name>
+<club>Arsenal</club>
+<age>21</age>
+<market_value>7.0</market_value>
+<nationality>England</nationality>
+<name>Mohamed Elneny</name>
+<club>Arsenal</club>
+<age>25</age>
+<market_value>10.0</market_value>
+<nationality>Egypt</nationality>
+<name>Lucas Perez</name>
+<club>Arsenal</club>
+<age>28</age>
+<market_value>15.0</market_value>
+<nationality>Spain</nationality>
+<name>Emiliano Martinez</name>
+<club>Arsenal</club>
+<age>24</age>
+<market_value>1.0</market_value>
+<nationality>Argentina</nationality>
+<name>David Ospina</name>
+<club>Arsenal</club>
+<age>28</age>
+<market_value>7.0</market_value>
+<nationality>Colombia</nationality>
+<name>Carl Jenkinson</name>
+<club>Arsenal</club>
+<age>25</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Per Mertesacker</name>
+<club>Arsenal</club>
+<age>32</age>
+<market_value>6.0</market_value>
+<nationality>Germany</nationality>
+<name>Sead Kolasinac</name>
+<club>Arsenal</club>
+<age>24</age>
+<market_value>15.0</market_value>
+<nationality>Bosnia</nationality>
+<name>Alexandre Lacazette</name>
+<club>Arsenal</club>
+<age>26</age>
+<market_value>40.0</market_value>
+<nationality>France</nationality>
+<name>Joshua King</name>
+<club>Bournemouth</club>
+<age>25</age>
+<market_value>8.0</market_value>
+<nationality>Norway</nationality>
+<name>Jermain Defoe</name>
+<club>Bournemouth</club>
+<age>34</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Charlie Daniels</name>
+<club>Bournemouth</club>
+<age>30</age>
+<market_value>3.0</market_value>
+<nationality>England</nationality>
+<name>Artur Boruc</name>
+<club>Bournemouth</club>
+<age>37</age>
+<market_value>1.0</market_value>
+<nationality>Poland</nationality>
+<name>Steve Cook</name>
+<club>Bournemouth</club>
+<age>26</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Junior Stanislas</name>
+<club>Bournemouth</club>
+<age>27</age>
+<market_value>4.5</market_value>
+<nationality>England</nationality>
+<name>Adam Smith</name>
+<club>Bournemouth</club>
+<age>26</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Ryan Fraser</name>
+<club>Bournemouth</club>
+<age>23</age>
+<market_value>5.0</market_value>
+<nationality>Scotland</nationality>
+<name>Simon Francis</name>
+<club>Bournemouth</club>
+<age>32</age>
+<market_value>2.5</market_value>
+<nationality>England</nationality>
+<name>Benik Afobe</name>
+<club>Bournemouth</club>
+<age>24</age>
+<market_value>10.0</market_value>
+<nationality>Congo DR</nationality>
+<name>Harry Arter</name>
+<club>Bournemouth</club>
+<age>27</age>
+<market_value>2.5</market_value>
+<nationality>Ireland</nationality>
+<name>Marc Pugh</name>
+<club>Bournemouth</club>
+<age>30</age>
+<market_value>2.0</market_value>
+<nationality>England</nationality>
+<name>Callum Wilson</name>
+<club>Bournemouth</club>
+<age>25</age>
+<market_value>10.0</market_value>
+<nationality>England</nationality>
+<name>Nathan Ake</name>
+<club>Bournemouth</club>
+<age>22</age>
+<market_value>8.0</market_value>
+<nationality>Netherlands</nationality>
+<name>Dan Gosling</name>
+<club>Bournemouth</club>
+<age>27</age>
+<market_value>3.0</market_value>
+<nationality>England</nationality>
+<name>Andrew Surman</name>
+<club>Bournemouth</club>
+<age>30</age>
+<market_value>2.0</market_value>
+<nationality>England</nationality>
+<name>Jordon Ibe</name>
+<club>Bournemouth</club>
+<age>21</age>
+<market_value>8.0</market_value>
+<nationality>England</nationality>
+<name>Lewis Cook</name>
+<club>Bournemouth</club>
+<age>20</age>
+<market_value>6.0</market_value>
+<nationality>England</nationality>
+<name>Lys Mousset</name>
+<club>Bournemouth</club>
+<age>21</age>
+<market_value>4.0</market_value>
+<nationality>France</nationality>
+<name>Adam Federici</name>
+<club>Bournemouth</club>
+<age>32</age>
+<market_value>1.0</market_value>
+<nationality>Australia</nationality>
+<name>Max Gradel</name>
+<club>Bournemouth</club>
+<age>29</age>
+<market_value>7.0</market_value>
+<nationality>Cote d'Ivoire</nationality>
+<name>Tyrone Mings</name>
+<club>Bournemouth</club>
+<age>24</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Brad Smith</name>
+<club>Bournemouth</club>
+<age>23</age>
+<market_value>2.0</market_value>
+<nationality>Australia</nationality>
+<name>Asmir Begovic</name>
+<club>Bournemouth</club>
+<age>30</age>
+<market_value>8.0</market_value>
+<nationality>Bosnia</nationality>
+<name>Niki Maenpaa</name>
+<club>Brighton+and+Hove</club>
+<age>32</age>
+<market_value>0.25</market_value>
+<nationality>Finland</nationality>
+<name>Mathew Ryan</name>
+<club>Brighton+and+Hove</club>
+<age>25</age>
+<market_value>3.5</market_value>
+<nationality>Australia</nationality>
+<name>Lewis Dunk</name>
+<club>Brighton+and+Hove</club>
+<age>25</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Shane Duffy</name>
+<club>Brighton+and+Hove</club>
+<age>25</age>
+<market_value>5.0</market_value>
+<nationality>Ireland</nationality>
+<name>Uwe Hunemeier</name>
+<club>Brighton+and+Hove</club>
+<age>31</age>
+<market_value>1.5</market_value>
+<nationality>Germany</nationality>
+<name>Bruno</name>
+<club>Brighton+and+Hove</club>
+<age>36</age>
+<market_value>0.5</market_value>
+<nationality>Argentina</nationality>
+<name>Gaetan Bong</name>
+<club>Brighton+and+Hove</club>
+<age>29</age>
+<market_value>1.5</market_value>
+<nationality>Cameroon</nationality>
+<name>Liam Rosenior</name>
+<club>Brighton+and+Hove</club>
+<age>33</age>
+<market_value>1.0</market_value>
+<nationality>England</nationality>
+<name>Connor Goldson</name>
+<club>Brighton+and+Hove</club>
+<age>24</age>
+<market_value>0.75</market_value>
+<nationality>England</nationality>
+<name>Markus Suttner</name>
+<club>Brighton+and+Hove</club>
+<age>30</age>
+<market_value>2.0</market_value>
+<nationality>Austria</nationality>
+<name>Anthony Knockaert</name>
+<club>Brighton+and+Hove</club>
+<age>25</age>
+<market_value>8.0</market_value>
+<nationality>France</nationality>
+<name>Dale Stephens</name>
+<club>Brighton+and+Hove</club>
+<age>27</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Beram Kayal</name>
+<club>Brighton+and+Hove</club>
+<age>29</age>
+<market_value>1.25</market_value>
+<nationality>Israel</nationality>
+<name>Steve Sidwell</name>
+<club>Brighton+and+Hove</club>
+<age>34</age>
+<market_value>1.0</market_value>
+<nationality>England</nationality>
+<name>Solly March</name>
+<club>Brighton+and+Hove</club>
+<age>23</age>
+<market_value>0.5</market_value>
+<nationality>England</nationality>
+<name>Jiri Skalak</name>
+<club>Brighton+and+Hove</club>
+<age>25</age>
+<market_value>1.5</market_value>
+<nationality>Czech Republic</nationality>
+<name>Oliver Norwood</name>
+<club>Brighton+and+Hove</club>
+<age>26</age>
+<market_value>2.5</market_value>
+<nationality>Northern Ireland</nationality>
+<name>Jamie Murphy</name>
+<club>Brighton+and+Hove</club>
+<age>27</age>
+<market_value>1.75</market_value>
+<nationality>Scotland</nationality>
+<name>Pascal Gross</name>
+<club>Brighton+and+Hove</club>
+<age>26</age>
+<market_value>4.0</market_value>
+<nationality>Germany</nationality>
+<name>Glenn Murray</name>
+<club>Brighton+and+Hove</club>
+<age>33</age>
+<market_value>3.5</market_value>
+<nationality>England</nationality>
+<name>Tomer Hemed</name>
+<club>Brighton+and+Hove</club>
+<age>30</age>
+<market_value>2.5</market_value>
+<nationality>Israel</nationality>
+<name>Sam Baldock</name>
+<club>Brighton+and+Hove</club>
+<age>28</age>
+<market_value>3.0</market_value>
+<nationality>England</nationality>
+<name>Tom Heaton</name>
+<club>Burnley</club>
+<age>31</age>
+<market_value>4.0</market_value>
+<nationality>England</nationality>
+<name>Sam Vokes</name>
+<club>Burnley</club>
+<age>27</age>
+<market_value>4.5</market_value>
+<nationality>Wales</nationality>
+<name>Andre Gray</name>
+<club>Burnley</club>
+<age>26</age>
+<market_value>10.0</market_value>
+<nationality>England</nationality>
+<name>Ben Mee</name>
+<club>Burnley</club>
+<age>27</age>
+<market_value>6.0</market_value>
+<nationality>England</nationality>
+<name>Stephen Ward</name>
+<club>Burnley</club>
+<age>31</age>
+<market_value>1.5</market_value>
+<nationality>Ireland</nationality>
+<name>Matthew Lowton</name>
+<club>Burnley</club>
+<age>28</age>
+<market_value>2.5</market_value>
+<nationality>England</nationality>
+<name>Ashley Barnes</name>
+<club>Burnley</club>
+<age>27</age>
+<market_value>2.5</market_value>
+<nationality>England</nationality>
+<name>Jeff Hendrick</name>
+<club>Burnley</club>
+<age>25</age>
+<market_value>6.0</market_value>
+<nationality>Ireland</nationality>
+<name>Scott Arfield</name>
+<club>Burnley</club>
+<age>28</age>
+<market_value>3.0</market_value>
+<nationality>Canada</nationality>
+<name>Steven Defour</name>
+<club>Burnley</club>
+<age>29</age>
+<market_value>6.0</market_value>
+<nationality>Belgium</nationality>
+<name>Dean Marney</name>
+<club>Burnley</club>
+<age>33</age>
+<market_value>1.0</market_value>
+<nationality>England</nationality>
+<name>Jack Cork</name>
+<club>Burnley</club>
+<age>28</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Johann Berg Gudmundsson</name>
+<club>Burnley</club>
+<age>26</age>
+<market_value>2.5</market_value>
+<nationality>Iceland</nationality>
+<name>Robbie Brady</name>
+<club>Burnley</club>
+<age>25</age>
+<market_value>10.0</market_value>
+<nationality>Ireland</nationality>
+<name>James Tarkowski</name>
+<club>Burnley</club>
+<age>24</age>
+<market_value>2.0</market_value>
+<nationality>England</nationality>
+<name>Ashley Westwood</name>
+<club>Burnley</club>
+<age>27</age>
+<market_value>4.0</market_value>
+<nationality>England</nationality>
+<name>Kevin Long</name>
+<club>Burnley</club>
+<age>26</age>
+<market_value>0.5</market_value>
+<nationality>Ireland</nationality>
+<name>Matthew Taylor</name>
+<club>Burnley</club>
+<age>35</age>
+<market_value>0.25</market_value>
+<nationality>England</nationality>
+<name>Eden Hazard</name>
+<club>Chelsea</club>
+<age>26</age>
+<market_value>75.0</market_value>
+<nationality>Belgium</nationality>
+<name>Diego Costa</name>
+<club>Chelsea</club>
+<age>28</age>
+<market_value>50.0</market_value>
+<nationality>Spain</nationality>
+<name>Gary Cahill</name>
+<club>Chelsea</club>
+<age>31</age>
+<market_value>16.0</market_value>
+<nationality>England</nationality>
+<name>Marcos Alonso Mendoza</name>
+<club>Chelsea</club>
+<age>26</age>
+<market_value>25.0</market_value>
+<nationality>Spain</nationality>
+<name>Cesar Azpilicueta</name>
+<club>Chelsea</club>
+<age>27</age>
+<market_value>30.0</market_value>
+<nationality>Spain</nationality>
+<name>Pedro</name>
+<club>Chelsea</club>
+<age>29</age>
+<market_value>28.0</market_value>
+<nationality>Spain</nationality>
+<name>Thibaut Courtois</name>
+<club>Chelsea</club>
+<age>25</age>
+<market_value>40.0</market_value>
+<nationality>Belgium</nationality>
+<name>David Luiz</name>
+<club>Chelsea</club>
+<age>30</age>
+<market_value>30.0</market_value>
+<nationality>Brazil</nationality>
+<name>Cesc Fabregas</name>
+<club>Chelsea</club>
+<age>30</age>
+<market_value>35.0</market_value>
+<nationality>Spain</nationality>
+<name>Willian</name>
+<club>Chelsea</club>
+<age>28</age>
+<market_value>32.0</market_value>
+<nationality>Brazil</nationality>
+<name>Victor Moses</name>
+<club>Chelsea</club>
+<age>26</age>
+<market_value>18.0</market_value>
+<nationality>Nigeria</nationality>
+<name>Nemanja Matic</name>
+<club>Chelsea</club>
+<age>28</age>
+<market_value>35.0</market_value>
+<nationality>Serbia</nationality>
+<name>N%27Golo Kante</name>
+<club>Chelsea</club>
+<age>26</age>
+<market_value>50.0</market_value>
+<nationality>France</nationality>
+<name>Willy Caballero</name>
+<club>Chelsea</club>
+<age>35</age>
+<market_value>1.5</market_value>
+<nationality>Argentina</nationality>
+<name>Michy Batshuayi</name>
+<club>Chelsea</club>
+<age>23</age>
+<market_value>25.0</market_value>
+<nationality>Belgium</nationality>
+<name>Kurt Zouma</name>
+<club>Chelsea</club>
+<age>22</age>
+<market_value>15.0</market_value>
+<nationality>France</nationality>
+<name>Kenedy</name>
+<club>Chelsea</club>
+<age>21</age>
+<market_value>7.0</market_value>
+<nationality>Brazil</nationality>
+<name>Eduardo Carvalho</name>
+<club>Chelsea</club>
+<age>34</age>
+<market_value>0.05</market_value>
+<nationality>Portugal</nationality>
+<name>Antonio Rudiger</name>
+<club>Chelsea</club>
+<age>24</age>
+<market_value>25.0</market_value>
+<nationality>Germany</nationality>
+<name>Tiemoue Bakayoko</name>
+<club>Chelsea</club>
+<age>22</age>
+<market_value>16.0</market_value>
+<nationality>France</nationality>
+<name>Wilfried Zaha</name>
+<club>Crystal+Palace</club>
+<age>24</age>
+<market_value>18.0</market_value>
+<nationality>Cote d'Ivoire</nationality>
+<name>Christian Benteke</name>
+<club>Crystal+Palace</club>
+<age>26</age>
+<market_value>28.0</market_value>
+<nationality>Belgium</nationality>
+<name>Andros Townsend</name>
+<club>Crystal+Palace</club>
+<age>26</age>
+<market_value>12.0</market_value>
+<nationality>England</nationality>
+<name>Patrick van Aanholt</name>
+<club>Crystal+Palace</club>
+<age>26</age>
+<market_value>9.0</market_value>
+<nationality>Netherlands</nationality>
+<name>James McArthur</name>
+<club>Crystal+Palace</club>
+<age>29</age>
+<market_value>7.0</market_value>
+<nationality>Scotland</nationality>
+<name>Wayne Hennessey</name>
+<club>Crystal+Palace</club>
+<age>30</age>
+<market_value>4.0</market_value>
+<nationality>Wales</nationality>
+<name>Jason Puncheon</name>
+<club>Crystal+Palace</club>
+<age>31</age>
+<market_value>5.5</market_value>
+<nationality>England</nationality>
+<name>Yohan Cabaye</name>
+<club>Crystal+Palace</club>
+<age>31</age>
+<market_value>15.0</market_value>
+<nationality>France</nationality>
+<name>Joel Ward</name>
+<club>Crystal+Palace</club>
+<age>27</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>James Tomkins</name>
+<club>Crystal+Palace</club>
+<age>28</age>
+<market_value>7.0</market_value>
+<nationality>England</nationality>
+<name>Scott Dann</name>
+<club>Crystal+Palace</club>
+<age>30</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Damien Delaney</name>
+<club>Crystal+Palace</club>
+<age>36</age>
+<market_value>1.0</market_value>
+<nationality>Ireland</nationality>
+<name>Jeffrey Schlupp</name>
+<club>Crystal+Palace</club>
+<age>24</age>
+<market_value>8.0</market_value>
+<nationality>Ghana</nationality>
+<name>Martin Kelly</name>
+<club>Crystal+Palace</club>
+<age>27</age>
+<market_value>3.0</market_value>
+<nationality>England</nationality>
+<name>Luka Milivojevic</name>
+<club>Crystal+Palace</club>
+<age>26</age>
+<market_value>10.0</market_value>
+<nationality>Serbia</nationality>
+<name>Lee Chung-yong</name>
+<club>Crystal+Palace</club>
+<age>29</age>
+<market_value>1.5</market_value>
+<nationality>South Korea</nationality>
+<name>Connor Wickham</name>
+<club>Crystal+Palace</club>
+<age>24</age>
+<market_value>6.0</market_value>
+<nationality>England</nationality>
+<name>Bakary Sako</name>
+<club>Crystal+Palace</club>
+<age>29</age>
+<market_value>6.0</market_value>
+<nationality>Mali</nationality>
+<name>Pape Souare</name>
+<club>Crystal+Palace</club>
+<age>27</age>
+<market_value>6.0</market_value>
+<nationality>Senegal</nationality>
+<name>Ruben Loftus-Cheek</name>
+<club>Crystal+Palace</club>
+<age>21</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Julian Speroni</name>
+<club>Crystal+Palace</club>
+<age>38</age>
+<market_value>0.25</market_value>
+<nationality>Argentina</nationality>
+<name>Ross Barkley</name>
+<club>Everton</club>
+<age>23</age>
+<market_value>25.0</market_value>
+<nationality>England</nationality>
+<name>Leighton Baines</name>
+<club>Everton</club>
+<age>32</age>
+<market_value>12.0</market_value>
+<nationality>England</nationality>
+<name>Seamus Coleman</name>
+<club>Everton</club>
+<age>28</age>
+<market_value>17.0</market_value>
+<nationality>Ireland</nationality>
+<name>Ashley Williams</name>
+<club>Everton</club>
+<age>32</age>
+<market_value>8.0</market_value>
+<nationality>Wales</nationality>
+<name>Kevin Mirallas</name>
+<club>Everton</club>
+<age>29</age>
+<market_value>13.0</market_value>
+<nationality>Belgium</nationality>
+<name>Michael Keane</name>
+<club>Everton</club>
+<age>24</age>
+<market_value>18.0</market_value>
+<nationality>England</nationality>
+<name>Phil Jagielka</name>
+<club>Everton</club>
+<age>34</age>
+<market_value>2.0</market_value>
+<nationality>England</nationality>
+<name>Jordan Pickford</name>
+<club>Everton</club>
+<age>23</age>
+<market_value>15.0</market_value>
+<nationality>England</nationality>
+<name>Joel Robles</name>
+<club>Everton</club>
+<age>27</age>
+<market_value>5.0</market_value>
+<nationality>Spain</nationality>
+<name>Idrissa Gueye</name>
+<club>Everton</club>
+<age>27</age>
+<market_value>18.0</market_value>
+<nationality>Senegal</nationality>
+<name>Wayne Rooney</name>
+<club>Everton</club>
+<age>31</age>
+<market_value>15.0</market_value>
+<nationality>England</nationality>
+<name>Ramiro Funes Mori</name>
+<club>Everton</club>
+<age>26</age>
+<market_value>12.0</market_value>
+<nationality>Argentina</nationality>
+<name>Maarten Stekelenburg</name>
+<club>Everton</club>
+<age>34</age>
+<market_value>2.0</market_value>
+<nationality>Netherlands</nationality>
+<name>Gareth Barry</name>
+<club>Everton</club>
+<age>36</age>
+<market_value>1.5</market_value>
+<nationality>England</nationality>
+<name>Tom Davies</name>
+<club>Everton</club>
+<age>19</age>
+<market_value>8.0</market_value>
+<nationality>England</nationality>
+<name>Mason Holgate</name>
+<club>Everton</club>
+<age>20</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Yannick Bolasie</name>
+<club>Everton</club>
+<age>28</age>
+<market_value>20.0</market_value>
+<nationality>Congo DR</nationality>
+<name>Morgan Schneiderlin</name>
+<club>Everton</club>
+<age>27</age>
+<market_value>22.0</market_value>
+<nationality>France</nationality>
+<name>Cuco Martina</name>
+<club>Everton</club>
+<age>27</age>
+<market_value>2.0</market_value>
+<nationality>Curacao</nationality>
+<name>James McCarthy</name>
+<club>Everton</club>
+<age>26</age>
+<market_value>15.0</market_value>
+<nationality>Ireland</nationality>
+<name>Aaron Lennon</name>
+<club>Everton</club>
+<age>30</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Dominic Calvert-Lewin</name>
+<club>Everton</club>
+<age>20</age>
+<market_value>3.5</market_value>
+<nationality>England</nationality>
+<name>Ademola Lookman</name>
+<club>Everton</club>
+<age>19</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Matthew Pennington</name>
+<club>Everton</club>
+<age>22</age>
+<market_value>0.5</market_value>
+<nationality>England</nationality>
+<name>Jonjoe Kenny</name>
+<club>Everton</club>
+<age>20</age>
+<market_value>0.25</market_value>
+<nationality>England</nationality>
+<name>Muhamed Besic</name>
+<club>Everton</club>
+<age>24</age>
+<market_value>5.0</market_value>
+<nationality>Germany</nationality>
+<name>Davy Klaassen</name>
+<club>Everton</club>
+<age>24</age>
+<market_value>18.0</market_value>
+<nationality>Netherlands</nationality>
+<name>Sandro Ramirez</name>
+<club>Everton</club>
+<age>22</age>
+<market_value>10.0</market_value>
+<nationality>Spain</nationality>
+<name>Joel Coleman</name>
+<club>Huddersfield</club>
+<age>21</age>
+<market_value>0.25</market_value>
+<nationality>England</nationality>
+<name>Jonas Lossl</name>
+<club>Huddersfield</club>
+<age>28</age>
+<market_value>1.5</market_value>
+<nationality>Denmark</nationality>
+<name>Christopher Schindler</name>
+<club>Huddersfield</club>
+<age>27</age>
+<market_value>2.0</market_value>
+<nationality>Germany</nationality>
+<name>Chris Lowe</name>
+<club>Huddersfield</club>
+<age>28</age>
+<market_value>1.5</market_value>
+<nationality>Germany</nationality>
+<name>Tommy Smith</name>
+<club>Huddersfield</club>
+<age>25</age>
+<market_value>2.0</market_value>
+<nationality>England</nationality>
+<name>Michael Hefele</name>
+<club>Huddersfield</club>
+<age>26</age>
+<market_value>1.5</market_value>
+<nationality>Germany</nationality>
+<name>Martin Cranie</name>
+<club>Huddersfield</club>
+<age>30</age>
+<market_value>0.5</market_value>
+<nationality>England</nationality>
+<name>Jon Gorenc Stankovic</name>
+<club>Huddersfield</club>
+<age>21</age>
+<market_value>0.5</market_value>
+<nationality>Slovenia</nationality>
+<name>Mark Hudson</name>
+<club>Huddersfield</club>
+<age>35</age>
+<market_value>0.5</market_value>
+<nationality>England</nationality>
+<name>Mathias Jorgensen</name>
+<club>Huddersfield</club>
+<age>27</age>
+<market_value>2.5</market_value>
+<nationality>Denmark</nationality>
+<name>Scott Malone</name>
+<club>Huddersfield</club>
+<age>26</age>
+<market_value>0.75</market_value>
+<nationality>England</nationality>
+<name>Aaron Mooy</name>
+<club>Huddersfield</club>
+<age>26</age>
+<market_value>5.0</market_value>
+<nationality>Australia</nationality>
+<name>Rajiv van La Parra</name>
+<club>Huddersfield</club>
+<age>26</age>
+<market_value>2.0</market_value>
+<nationality>Netherlands</nationality>
+<name>Jonathan Hogg</name>
+<club>Huddersfield</club>
+<age>28</age>
+<market_value>1.0</market_value>
+<nationality>England</nationality>
+<name>Philip Billing</name>
+<club>Huddersfield</club>
+<age>21</age>
+<market_value>0.5</market_value>
+<nationality>Denmark</nationality>
+<name>Joe Lolley</name>
+<club>Huddersfield</club>
+<age>24</age>
+<market_value>0.25</market_value>
+<nationality>England</nationality>
+<name>Jack Payne</name>
+<club>Huddersfield</club>
+<age>25</age>
+<market_value>0.25</market_value>
+<nationality>England</nationality>
+<name>Dean Whitehead</name>
+<club>Huddersfield</club>
+<age>35</age>
+<market_value>0.25</market_value>
+<nationality>England</nationality>
+<name>Harry Bunn</name>
+<club>Huddersfield</club>
+<age>24</age>
+<market_value>0.5</market_value>
+<nationality>England</nationality>
+<name>Sean Scannell</name>
+<club>Huddersfield</club>
+<age>26</age>
+<market_value>0.5</market_value>
+<nationality>Ireland</nationality>
+<name>Elias Kachunga</name>
+<club>Huddersfield</club>
+<age>25</age>
+<market_value>3.5</market_value>
+<nationality>Congo DR</nationality>
+<name>Tom Ince</name>
+<club>Huddersfield</club>
+<age>25</age>
+<market_value>7.0</market_value>
+<nationality>England</nationality>
+<name>Kasey Palmer</name>
+<club>Huddersfield</club>
+<age>20</age>
+<market_value>0.75</market_value>
+<nationality>England</nationality>
+<name>Andy Williams</name>
+<club>Huddersfield</club>
+<age>26</age>
+<market_value>0.65</market_value>
+<nationality>Trinidad and Tobago</nationality>
+<name>Nahki Wells</name>
+<club>Huddersfield</club>
+<age>27</age>
+<market_value>5.0</market_value>
+<nationality>Bermuda</nationality>
+<name>Collin Quaner</name>
+<club>Huddersfield</club>
+<age>26</age>
+<market_value>1.0</market_value>
+<nationality>Germany</nationality>
+<name>Laurent Depoitre</name>
+<club>Huddersfield</club>
+<age>28</age>
+<market_value>3.0</market_value>
+<nationality>Belgium</nationality>
+<name>Steve Mounie</name>
+<club>Huddersfield</club>
+<age>22</age>
+<market_value>5.5</market_value>
+<nationality>Benin</nationality>
+<name>Jamie Vardy</name>
+<club>Leicester+City</club>
+<age>30</age>
+<market_value>15.0</market_value>
+<nationality>England</nationality>
+<name>Riyad Mahrez</name>
+<club>Leicester+City</club>
+<age>26</age>
+<market_value>30.0</market_value>
+<nationality>Algeria</nationality>
+<name>Kasper Schmeichel</name>
+<club>Leicester+City</club>
+<age>30</age>
+<market_value>10.0</market_value>
+<nationality>Denmark</nationality>
+<name>Christian Fuchs</name>
+<club>Leicester+City</club>
+<age>31</age>
+<market_value>6.0</market_value>
+<nationality>Austria</nationality>
+<name>Marc Albrighton</name>
+<club>Leicester+City</club>
+<age>27</age>
+<market_value>6.0</market_value>
+<nationality>England</nationality>
+<name>Robert Huth</name>
+<club>Leicester+City</club>
+<age>32</age>
+<market_value>5.0</market_value>
+<nationality>Germany</nationality>
+<name>Danny Simpson</name>
+<club>Leicester+City</club>
+<age>30</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Islam Slimani</name>
+<club>Leicester+City</club>
+<age>29</age>
+<market_value>25.0</market_value>
+<nationality>Algeria</nationality>
+<name>Harry Maguire</name>
+<club>Leicester+City</club>
+<age>24</age>
+<market_value>8.0</market_value>
+<nationality>England</nationality>
+<name>Danny Drinkwater</name>
+<club>Leicester+City</club>
+<age>27</age>
+<market_value>9.0</market_value>
+<nationality>England</nationality>
+<name>Wes Morgan</name>
+<club>Leicester+City</club>
+<age>33</age>
+<market_value>3.0</market_value>
+<nationality>Jamaica</nationality>
+<name>Shinji Okazaki</name>
+<club>Leicester+City</club>
+<age>31</age>
+<market_value>7.0</market_value>
+<nationality>Japan</nationality>
+<name>Wilfred Ndidi</name>
+<club>Leicester+City</club>
+<age>20</age>
+<market_value>14.0</market_value>
+<nationality>Nigeria</nationality>
+<name>Demarai Gray</name>
+<club>Leicester+City</club>
+<age>21</age>
+<market_value>9.0</market_value>
+<nationality>England</nationality>
+<name>Daniel Amartey</name>
+<club>Leicester+City</club>
+<age>22</age>
+<market_value>5.0</market_value>
+<nationality>Ghana</nationality>
+<name>Andy King</name>
+<club>Leicester+City</club>
+<age>28</age>
+<market_value>3.0</market_value>
+<nationality>Wales</nationality>
+<name>Ahmed Musa</name>
+<club>Leicester+City</club>
+<age>24</age>
+<market_value>17.0</market_value>
+<nationality>Nigeria</nationality>
+<name>Yohan Benalouane</name>
+<club>Leicester+City</club>
+<age>30</age>
+<market_value>1.0</market_value>
+<nationality>Tunisia</nationality>
+<name>Leonardo Ulloa</name>
+<club>Leicester+City</club>
+<age>30</age>
+<market_value>6.0</market_value>
+<nationality>Argentina</nationality>
+<name>Ben Chilwell</name>
+<club>Leicester+City</club>
+<age>20</age>
+<market_value>2.5</market_value>
+<nationality>England</nationality>
+<name>Nampalys Mendy</name>
+<club>Leicester+City</club>
+<age>25</age>
+<market_value>10.0</market_value>
+<nationality>France</nationality>
+<name>Ben Hamer</name>
+<club>Leicester+City</club>
+<age>29</age>
+<market_value>0.5</market_value>
+<nationality>England</nationality>
+<name>Molla Wague</name>
+<club>Leicester+City</club>
+<age>26</age>
+<market_value>1.5</market_value>
+<nationality>Mali</nationality>
+<name>Vicente Iborra</name>
+<club>Leicester+City</club>
+<age>29</age>
+<market_value>9.0</market_value>
+<nationality>Spain</nationality>
+<name>Roberto Firmino</name>
+<club>Liverpool</club>
+<age>25</age>
+<market_value>38.0</market_value>
+<nationality>Brazil</nationality>
+<name>Philippe Coutinho</name>
+<club>Liverpool</club>
+<age>25</age>
+<market_value>45.0</market_value>
+<nationality>Brazil</nationality>
+<name>Sadio Mane</name>
+<club>Liverpool</club>
+<age>25</age>
+<market_value>40.0</market_value>
+<nationality>Senegal</nationality>
+<name>Georginio Wijnaldum</name>
+<club>Liverpool</club>
+<age>26</age>
+<market_value>28.0</market_value>
+<nationality>Netherlands</nationality>
+<name>James Milner</name>
+<club>Liverpool</club>
+<age>31</age>
+<market_value>12.0</market_value>
+<nationality>England</nationality>
+<name>Adam Lallana</name>
+<club>Liverpool</club>
+<age>29</age>
+<market_value>25.0</market_value>
+<nationality>England</nationality>
+<name>Nathaniel Clyne</name>
+<club>Liverpool</club>
+<age>26</age>
+<market_value>21.0</market_value>
+<nationality>England</nationality>
+<name>Simon Mignolet</name>
+<club>Liverpool</club>
+<age>29</age>
+<market_value>12.0</market_value>
+<nationality>Belgium</nationality>
+<name>Dejan Lovren</name>
+<club>Liverpool</club>
+<age>28</age>
+<market_value>17.0</market_value>
+<nationality>Croatia</nationality>
+<name>Emre Can</name>
+<club>Liverpool</club>
+<age>23</age>
+<market_value>15.0</market_value>
+<nationality>Germany</nationality>
+<name>Joel Matip</name>
+<club>Liverpool</club>
+<age>25</age>
+<market_value>25.0</market_value>
+<nationality>Cameroon</nationality>
+<name>Divock Origi</name>
+<club>Liverpool</club>
+<age>22</age>
+<market_value>12.0</market_value>
+<nationality>Belgium</nationality>
+<name>Jordan Henderson</name>
+<club>Liverpool</club>
+<age>27</age>
+<market_value>28.0</market_value>
+<nationality>England</nationality>
+<name>Daniel Sturridge</name>
+<club>Liverpool</club>
+<age>27</age>
+<market_value>20.0</market_value>
+<nationality>England</nationality>
+<name>Lucas Leiva</name>
+<club>Liverpool</club>
+<age>30</age>
+<market_value>7.0</market_value>
+<nationality>Brazil</nationality>
+<name>Ragnar Klavan</name>
+<club>Liverpool</club>
+<age>31</age>
+<market_value>3.5</market_value>
+<nationality>Estonia</nationality>
+<name>Mamadou Sakho</name>
+<club>Liverpool</club>
+<age>27</age>
+<market_value>15.0</market_value>
+<nationality>France</nationality>
+<name>Loris Karius</name>
+<club>Liverpool</club>
+<age>24</age>
+<market_value>8.0</market_value>
+<nationality>Germany</nationality>
+<name>Trent Alexander-Arnold</name>
+<club>Liverpool</club>
+<age>18</age>
+<market_value>1.5</market_value>
+<nationality>England</nationality>
+<name>Alberto Moreno</name>
+<club>Liverpool</club>
+<age>25</age>
+<market_value>10.0</market_value>
+<nationality>Spain</nationality>
+<name>Ben Woodburn</name>
+<club>Liverpool</club>
+<age>17</age>
+<market_value>1.5</market_value>
+<nationality>Wales</nationality>
+<name>Marko Grujic</name>
+<club>Liverpool</club>
+<age>21</age>
+<market_value>5.0</market_value>
+<nationality>Serbia</nationality>
+<name>Joe Gomez</name>
+<club>Liverpool</club>
+<age>20</age>
+<market_value>4.0</market_value>
+<nationality>England</nationality>
+<name>Sheyi Ojo</name>
+<club>Liverpool</club>
+<age>20</age>
+<market_value>2.0</market_value>
+<nationality>England</nationality>
+<name>Mohamed Salah</name>
+<club>Liverpool</club>
+<age>25</age>
+<market_value>35.0</market_value>
+<nationality>Egypt</nationality>
+<name>Danny Ings</name>
+<club>Liverpool</club>
+<age>24</age>
+<market_value>8.0</market_value>
+<nationality>England</nationality>
+<name>Dominic Solanke</name>
+<club>Liverpool</club>
+<age>19</age>
+<market_value>2.0</market_value>
+<nationality>England</nationality>
+<name>Kevin De Bruyne</name>
+<club>Manchester+City</club>
+<age>26</age>
+<market_value>65.0</market_value>
+<nationality>Belgium</nationality>
+<name>Sergio Aguero</name>
+<club>Manchester+City</club>
+<age>29</age>
+<market_value>65.0</market_value>
+<nationality>Argentina</nationality>
+<name>Raheem Sterling</name>
+<club>Manchester+City</club>
+<age>22</age>
+<market_value>45.0</market_value>
+<nationality>England</nationality>
+<name>Kyle Walker</name>
+<club>Manchester+City</club>
+<age>27</age>
+<market_value>30.0</market_value>
+<nationality>England</nationality>
+<name>David Silva</name>
+<club>Manchester+City</club>
+<age>31</age>
+<market_value>30.0</market_value>
+<nationality>Spain</nationality>
+<name>Leroy Sane</name>
+<club>Manchester+City</club>
+<age>21</age>
+<market_value>35.0</market_value>
+<nationality>Germany</nationality>
+<name>Nicolas Otamendi</name>
+<club>Manchester+City</club>
+<age>29</age>
+<market_value>30.0</market_value>
+<nationality>Argentina</nationality>
+<name>Aleksandar Kolarov</name>
+<club>Manchester+City</club>
+<age>31</age>
+<market_value>10.0</market_value>
+<nationality>Serbia</nationality>
+<name>Yaya Toure</name>
+<club>Manchester+City</club>
+<age>34</age>
+<market_value>8.0</market_value>
+<nationality>Cote d'Ivoire</nationality>
+<name>Fernandinho</name>
+<club>Manchester+City</club>
+<age>32</age>
+<market_value>18.0</market_value>
+<nationality>Brazil</nationality>
+<name>Claudio Bravo</name>
+<club>Manchester+City</club>
+<age>34</age>
+<market_value>8.0</market_value>
+<nationality>Chile</nationality>
+<name>Gabriel Jesus</name>
+<club>Manchester+City</club>
+<age>20</age>
+<market_value>30.0</market_value>
+<nationality>Brazil</nationality>
+<name>John Stones</name>
+<club>Manchester+City</club>
+<age>23</age>
+<market_value>35.0</market_value>
+<nationality>England</nationality>
+<name>Vincent Kompany</name>
+<club>Manchester+City</club>
+<age>31</age>
+<market_value>22.0</market_value>
+<nationality>Belgium</nationality>
+<name>Kelechi Iheanacho</name>
+<club>Manchester+City</club>
+<age>20</age>
+<market_value>15.0</market_value>
+<nationality>Nigeria</nationality>
+<name>Ilkay Gundogan</name>
+<club>Manchester+City</club>
+<age>26</age>
+<market_value>30.0</market_value>
+<nationality>Germany</nationality>
+<name>Fernando</name>
+<club>Manchester+City</club>
+<age>32</age>
+<market_value>18.0</market_value>
+<nationality>Brazil</nationality>
+<name>Fabian Delph</name>
+<club>Manchester+City</club>
+<age>27</age>
+<market_value>8.0</market_value>
+<nationality>England</nationality>
+<name>Ederson Moraes</name>
+<club>Manchester+City</club>
+<age>23</age>
+<market_value>22.0</market_value>
+<nationality>Brazil</nationality>
+<name>Bernardo Silva</name>
+<club>Manchester+City</club>
+<age>22</age>
+<market_value>40.0</market_value>
+<nationality>Portugal</nationality>
+<name>Romelu Lukaku</name>
+<club>Manchester+United</club>
+<age>24</age>
+<market_value>50.0</market_value>
+<nationality>Belgium</nationality>
+<name>David de Gea</name>
+<club>Manchester+United</club>
+<age>26</age>
+<market_value>40.0</market_value>
+<nationality>Spain</nationality>
+<name>Antonio Valencia</name>
+<club>Manchester+United</club>
+<age>31</age>
+<market_value>10.0</market_value>
+<nationality>Ecuador</nationality>
+<name>Paul Pogba</name>
+<club>Manchester+United</club>
+<age>24</age>
+<market_value>75.0</market_value>
+<nationality>France</nationality>
+<name>Eric Bailly</name>
+<club>Manchester+United</club>
+<age>23</age>
+<market_value>30.0</market_value>
+<nationality>Cote d'Ivoire</nationality>
+<name>Juan Mata</name>
+<club>Manchester+United</club>
+<age>29</age>
+<market_value>30.0</market_value>
+<nationality>Spain</nationality>
+<name>Daley Blind</name>
+<club>Manchester+United</club>
+<age>27</age>
+<market_value>22.0</market_value>
+<nationality>Netherlands</nationality>
+<name>Ander Herrera</name>
+<club>Manchester+United</club>
+<age>27</age>
+<market_value>30.0</market_value>
+<nationality>Spain</nationality>
+<name>Anthony Martial</name>
+<club>Manchester+United</club>
+<age>21</age>
+<market_value>30.0</market_value>
+<nationality>France</nationality>
+<name>Marcos Rojo</name>
+<club>Manchester+United</club>
+<age>27</age>
+<market_value>18.0</market_value>
+<nationality>Argentina</nationality>
+<name>Marcus Rashford</name>
+<club>Manchester+United</club>
+<age>19</age>
+<market_value>18.0</market_value>
+<nationality>England</nationality>
+<name>Henrikh Mkhitaryan</name>
+<club>Manchester+United</club>
+<age>28</age>
+<market_value>35.0</market_value>
+<nationality>Armenia</nationality>
+<name>Matteo Darmian</name>
+<club>Manchester+United</club>
+<age>27</age>
+<market_value>12.0</market_value>
+<nationality>Italy</nationality>
+<name>Jesse Lingard</name>
+<club>Manchester+United</club>
+<age>24</age>
+<market_value>12.0</market_value>
+<nationality>England</nationality>
+<name>Phil Jones</name>
+<club>Manchester+United</club>
+<age>25</age>
+<market_value>14.0</market_value>
+<nationality>England</nationality>
+<name>Chris Smalling</name>
+<club>Manchester+United</club>
+<age>27</age>
+<market_value>18.0</market_value>
+<nationality>England</nationality>
+<name>Marouane Fellaini</name>
+<club>Manchester+United</club>
+<age>29</age>
+<market_value>12.0</market_value>
+<nationality>Belgium</nationality>
+<name>Luke Shaw</name>
+<club>Manchester+United</club>
+<age>22</age>
+<market_value>20.0</market_value>
+<nationality>England</nationality>
+<name>Michael Carrick</name>
+<club>Manchester+United</club>
+<age>35</age>
+<market_value>1.5</market_value>
+<nationality>England</nationality>
+<name>Ashley Young</name>
+<club>Manchester+United</club>
+<age>32</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Sergio Romero</name>
+<club>Manchester+United</club>
+<age>30</age>
+<market_value>6.0</market_value>
+<nationality>Argentina</nationality>
+<name>Axel Tuanzebe</name>
+<club>Manchester+United</club>
+<age>19</age>
+<market_value>1.0</market_value>
+<nationality>England</nationality>
+<name>Timothy Fosu-Mensah</name>
+<club>Manchester+United</club>
+<age>19</age>
+<market_value>2.5</market_value>
+<nationality>Netherlands</nationality>
+<name>Joel Castro Pereira</name>
+<club>Manchester+United</club>
+<age>21</age>
+<market_value>0.1</market_value>
+<nationality>Portugal</nationality>
+<name>Victor Lindelof</name>
+<club>Manchester+United</club>
+<age>23</age>
+<market_value>22.0</market_value>
+<nationality>Sweden</nationality>
+<name>Rob Elliot</name>
+<club>Newcastle+United</club>
+<age>31</age>
+<market_value>1.0</market_value>
+<nationality>Ireland</nationality>
+<name>Karl Darlow</name>
+<club>Newcastle+United</club>
+<age>26</age>
+<market_value>4.5</market_value>
+<nationality>England</nationality>
+<name>DeAndre Yedlin</name>
+<club>Newcastle+United</club>
+<age>24</age>
+<market_value>5.0</market_value>
+<nationality>United States</nationality>
+<name>Ciaran Clark</name>
+<club>Newcastle+United</club>
+<age>27</age>
+<market_value>5.0</market_value>
+<nationality>Ireland</nationality>
+<name>Lascelles</name>
+<club>Newcastle+United</club>
+<age>27</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Paul Dummett</name>
+<club>Newcastle+United</club>
+<age>25</age>
+<market_value>3.5</market_value>
+<nationality>Wales</nationality>
+<name>Grant Hanley</name>
+<club>Newcastle+United</club>
+<age>25</age>
+<market_value>4.5</market_value>
+<nationality>Scotland</nationality>
+<name>Jesus Gamez</name>
+<club>Newcastle+United</club>
+<age>32</age>
+<market_value>2.5</market_value>
+<nationality>Spain</nationality>
+<name>Florian Lejeune</name>
+<club>Newcastle+United</club>
+<age>26</age>
+<market_value>5.0</market_value>
+<nationality>France</nationality>
+<name>Massadio Haidara</name>
+<club>Newcastle+United</club>
+<age>24</age>
+<market_value>1.5</market_value>
+<nationality>France</nationality>
+<name>Matt Ritchie</name>
+<club>Newcastle+United</club>
+<age>27</age>
+<market_value>9.0</market_value>
+<nationality>Scotland</nationality>
+<name>Jonjo Shelvey</name>
+<club>Newcastle+United</club>
+<age>25</age>
+<market_value>11.0</market_value>
+<nationality>England</nationality>
+<name>Mohamed Diame</name>
+<club>Newcastle+United</club>
+<age>30</age>
+<market_value>6.0</market_value>
+<nationality>Senegal</nationality>
+<name>Jack Colback</name>
+<club>Newcastle+United</club>
+<age>27</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Christian Atsu</name>
+<club>Newcastle+United</club>
+<age>25</age>
+<market_value>5.0</market_value>
+<nationality>Ghana</nationality>
+<name>Siem de Jong</name>
+<club>Newcastle+United</club>
+<age>28</age>
+<market_value>5.5</market_value>
+<nationality>Netherlands</nationality>
+<name>Rolando Aarons</name>
+<club>Newcastle+United</club>
+<age>21</age>
+<market_value>0.75</market_value>
+<nationality>England</nationality>
+<name>Dwight Gayle</name>
+<club>Newcastle+United</club>
+<age>26</age>
+<market_value>10.0</market_value>
+<nationality>England</nationality>
+<name>Ayoze Perez</name>
+<club>Newcastle+United</club>
+<age>23</age>
+<market_value>8.0</market_value>
+<nationality>Spain</nationality>
+<name>Aleksandar Mitrovic</name>
+<club>Newcastle+United</club>
+<age>22</age>
+<market_value>10.0</market_value>
+<nationality>Serbia</nationality>
+<name>Daryl Murphy</name>
+<club>Newcastle+United</club>
+<age>34</age>
+<market_value>1.5</market_value>
+<nationality>Ireland</nationality>
+<name>Fraser Forster</name>
+<club>Southampton</club>
+<age>29</age>
+<market_value>15.0</market_value>
+<nationality>England</nationality>
+<name>Nathan Redmond</name>
+<club>Southampton</club>
+<age>23</age>
+<market_value>15.0</market_value>
+<nationality>England</nationality>
+<name>Ryan Bertrand</name>
+<club>Southampton</club>
+<age>27</age>
+<market_value>20.0</market_value>
+<nationality>England</nationality>
+<name>DuÅ¡an TadiÄ‡</name>
+<club>Southampton</club>
+<age>28</age>
+<market_value>17.0</market_value>
+<nationality>Portugal</nationality>
+<name>Cedric Soares</name>
+<club>Southampton</club>
+<age>25</age>
+<market_value>15.0</market_value>
+<nationality>Portugal</nationality>
+<name>James Ward-Prowse</name>
+<club>Southampton</club>
+<age>22</age>
+<market_value>15.0</market_value>
+<nationality>England</nationality>
+<name>Oriol Romeu</name>
+<club>Southampton</club>
+<age>25</age>
+<market_value>10.0</market_value>
+<nationality>Spain</nationality>
+<name>Maya Yoshida</name>
+<club>Southampton</club>
+<age>28</age>
+<market_value>5.0</market_value>
+<nationality>Japan</nationality>
+<name>Steven Davis</name>
+<club>Southampton</club>
+<age>32</age>
+<market_value>6.0</market_value>
+<nationality>Northern Ireland</nationality>
+<name>Virgil van Dijk</name>
+<club>Southampton</club>
+<age>26</age>
+<market_value>30.0</market_value>
+<nationality>Netherlands</nationality>
+<name>Charlie Austin</name>
+<club>Southampton</club>
+<age>28</age>
+<market_value>13.0</market_value>
+<nationality>England</nationality>
+<name>Jack Stephens</name>
+<club>Southampton</club>
+<age>23</age>
+<market_value>3.5</market_value>
+<nationality>England</nationality>
+<name>Shane Long</name>
+<club>Southampton</club>
+<age>30</age>
+<market_value>9.0</market_value>
+<nationality>Ireland</nationality>
+<name>Sofiane Boufal</name>
+<club>Southampton</club>
+<age>23</age>
+<market_value>15.0</market_value>
+<nationality>Morocco</nationality>
+<name>Jordy Clasie</name>
+<club>Southampton</club>
+<age>26</age>
+<market_value>10.0</market_value>
+<nationality>Netherlands</nationality>
+<name>Pierre-Emile Hojbjerg</name>
+<club>Southampton</club>
+<age>21</age>
+<market_value>8.0</market_value>
+<nationality>Denmark</nationality>
+<name>Manolo Gabbiadini</name>
+<club>Southampton</club>
+<age>25</age>
+<market_value>15.0</market_value>
+<nationality>Italy</nationality>
+<name>Sam McQueen</name>
+<club>Southampton</club>
+<age>22</age>
+<market_value>0.75</market_value>
+<nationality>England</nationality>
+<name>Matt Targett</name>
+<club>Southampton</club>
+<age>21</age>
+<market_value>3.0</market_value>
+<nationality>England</nationality>
+<name>Josh Sims</name>
+<club>Southampton</club>
+<age>20</age>
+<market_value>0.5</market_value>
+<nationality>England</nationality>
+<name>Jeremy Pied</name>
+<club>Southampton</club>
+<age>28</age>
+<market_value>3.5</market_value>
+<nationality>France</nationality>
+<name>Jason McCarthy</name>
+<club>Southampton</club>
+<age>21</age>
+<market_value>0.25</market_value>
+<nationality>England</nationality>
+<name>Jan Bednarek</name>
+<club>Southampton</club>
+<age>21</age>
+<market_value>0.5</market_value>
+<nationality>Poland</nationality>
+<name>Joe Allen</name>
+<club>Stoke+City</club>
+<age>27</age>
+<market_value>15.0</market_value>
+<nationality>Wales</nationality>
+<name>Marko ArnautoviÄ‡</name>
+<club>Stoke+City</club>
+<age>28</age>
+<market_value>15.0</market_value>
+<nationality>England</nationality>
+<name>Lee Grant</name>
+<club>Stoke+City</club>
+<age>34</age>
+<market_value>1.0</market_value>
+<nationality>England</nationality>
+<name>Erik Pieters</name>
+<club>Stoke+City</club>
+<age>28</age>
+<market_value>7.0</market_value>
+<nationality>Netherlands</nationality>
+<name>Steven Fletcher</name>
+<club>Stoke+City</club>
+<age>30</age>
+<market_value>3.0</market_value>
+<nationality>Scotland</nationality>
+<name>Ryan Shawcross</name>
+<club>Stoke+City</club>
+<age>29</age>
+<market_value>11.0</market_value>
+<nationality>England</nationality>
+<name>Xherdan Shaqiri</name>
+<club>Stoke+City</club>
+<age>25</age>
+<market_value>15.0</market_value>
+<nationality>Switzerland</nationality>
+<name>Peter Crouch</name>
+<club>Stoke+City</club>
+<age>36</age>
+<market_value>1.5</market_value>
+<nationality>England</nationality>
+<name>Glenn Whelan</name>
+<club>Stoke+City</club>
+<age>33</age>
+<market_value>2.5</market_value>
+<nationality>Ireland</nationality>
+<name>Charlie Adam</name>
+<club>Stoke+City</club>
+<age>31</age>
+<market_value>3.5</market_value>
+<nationality>Scotland</nationality>
+<name>Geoff Cameron</name>
+<club>Stoke+City</club>
+<age>32</age>
+<market_value>3.0</market_value>
+<nationality>United States</nationality>
+<name>Glen Johnson</name>
+<club>Stoke+City</club>
+<age>32</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Mame Biram Diouf</name>
+<club>Stoke+City</club>
+<age>29</age>
+<market_value>7.0</market_value>
+<nationality>Senegal</nationality>
+<name>Ramadan Sobhi</name>
+<club>Stoke+City</club>
+<age>20</age>
+<market_value>5.0</market_value>
+<nationality>Egypt</nationality>
+<name>Marc Muniesa</name>
+<club>Stoke+City</club>
+<age>25</age>
+<market_value>3.0</market_value>
+<nationality>Spain</nationality>
+<name>Bojan KrkiÄ‡</name>
+<club>Stoke+City</club>
+<age>26</age>
+<market_value>5.0</market_value>
+<nationality>Spain</nationality>
+<name>Phil Bardsley</name>
+<club>Stoke+City</club>
+<age>32</age>
+<market_value>1.5</market_value>
+<nationality>Scotland</nationality>
+<name>Saido Berahino</name>
+<club>Stoke+City</club>
+<age>23</age>
+<market_value>15.0</market_value>
+<nationality>England</nationality>
+<name>Giannelli Imbula</name>
+<club>Stoke+City</club>
+<age>24</age>
+<market_value>12.0</market_value>
+<nationality>France</nationality>
+<name>Jack Butland</name>
+<club>Stoke+City</club>
+<age>24</age>
+<market_value>15.0</market_value>
+<nationality>England</nationality>
+<name>Ibrahim Afellay</name>
+<club>Stoke+City</club>
+<age>31</age>
+<market_value>3.0</market_value>
+<nationality>Netherlands</nationality>
+<name>Josh Tymon</name>
+<club>Stoke+City</club>
+<age>18</age>
+<market_value>1.0</market_value>
+<nationality>England</nationality>
+<name>Gylfi Sigurdsson</name>
+<club>Swansea</club>
+<age>27</age>
+<market_value>25.0</market_value>
+<nationality>Iceland</nationality>
+<name>Fernando Llorente</name>
+<club>Swansea</club>
+<age>32</age>
+<market_value>6.0</market_value>
+<nationality>Spain</nationality>
+<name>Å&#129;ukasz FabiaÅ„ski</name>
+<club>Swansea</club>
+<age>32</age>
+<market_value>9.0</market_value>
+<nationality>Poland</nationality>
+<name>Leroy Fer</name>
+<club>Swansea</club>
+<age>27</age>
+<market_value>8.0</market_value>
+<nationality>Netherlands</nationality>
+<name>Alfie Mawson</name>
+<club>Swansea</club>
+<age>23</age>
+<market_value>6.0</market_value>
+<nationality>England</nationality>
+<name>Kyle Naughton</name>
+<club>Swansea</club>
+<age>28</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Wayne Routledge</name>
+<club>Swansea</club>
+<age>32</age>
+<market_value>2.5</market_value>
+<nationality>England</nationality>
+<name>Federico Fernandez</name>
+<club>Swansea</club>
+<age>28</age>
+<market_value>9.0</market_value>
+<nationality>Argentina</nationality>
+<name>Martin Olsson</name>
+<club>Swansea</club>
+<age>29</age>
+<market_value>5.0</market_value>
+<nationality>Sweden</nationality>
+<name>Tom Carroll</name>
+<club>Swansea</club>
+<age>25</age>
+<market_value>6.0</market_value>
+<nationality>England</nationality>
+<name>Ki Sung-yueng</name>
+<club>Swansea</club>
+<age>28</age>
+<market_value>7.0</market_value>
+<nationality>South Korea</nationality>
+<name>Jordan Ayew</name>
+<club>Swansea</club>
+<age>25</age>
+<market_value>7.5</market_value>
+<nationality>Ghana</nationality>
+<name>Modou Barrow</name>
+<club>Swansea</club>
+<age>24</age>
+<market_value>3.0</market_value>
+<nationality>The Gambia</nationality>
+<name>Leon Britton</name>
+<club>Swansea</club>
+<age>34</age>
+<market_value>1.0</market_value>
+<nationality>England</nationality>
+<name>Stephen Kingsley</name>
+<club>Swansea</club>
+<age>22</age>
+<market_value>0.75</market_value>
+<nationality>Scotland</nationality>
+<name>Ã€ngel Rangel</name>
+<club>Swansea</club>
+<age>34</age>
+<market_value>1.0</market_value>
+<nationality>Spain</nationality>
+<name>Luciano Narsingh</name>
+<club>Swansea</club>
+<age>26</age>
+<market_value>5.0</market_value>
+<nationality>Netherlands</nationality>
+<name>Jay Fulton</name>
+<club>Swansea</club>
+<age>23</age>
+<market_value>0.5</market_value>
+<nationality>Scotland</nationality>
+<name>Jefferson Montero</name>
+<club>Swansea</club>
+<age>27</age>
+<market_value>4.5</market_value>
+<nationality>Ecuador</nationality>
+<name>Mike van der Hoorn</name>
+<club>Swansea</club>
+<age>24</age>
+<market_value>2.0</market_value>
+<nationality>Netherlands</nationality>
+<name>Nathan Dyer</name>
+<club>Swansea</club>
+<age>29</age>
+<market_value>3.5</market_value>
+<nationality>England</nationality>
+<name>Oliver McBurnie</name>
+<club>Swansea</club>
+<age>21</age>
+<market_value>0.25</market_value>
+<nationality>Scotland</nationality>
+<name>Kristoffer Nordfeldt</name>
+<club>Swansea</club>
+<age>28</age>
+<market_value>1.5</market_value>
+<nationality>Sweden</nationality>
+<name>Roque Mesa</name>
+<club>Swansea</club>
+<age>28</age>
+<market_value>12.0</market_value>
+<nationality>Spain</nationality>
+<name>Tammy Abraham</name>
+<club>Swansea</club>
+<age>19</age>
+<market_value>8.0</market_value>
+<nationality>England</nationality>
+<name>Dele Alli</name>
+<club>Tottenham</club>
+<age>21</age>
+<market_value>45.0</market_value>
+<nationality>England</nationality>
+<name>Harry Kane</name>
+<club>Tottenham</club>
+<age>23</age>
+<market_value>60.0</market_value>
+<nationality>England</nationality>
+<name>Christian Eriksen</name>
+<club>Tottenham</club>
+<age>25</age>
+<market_value>40.0</market_value>
+<nationality>Denmark</nationality>
+<name>Son Heung-min</name>
+<club>Tottenham</club>
+<age>25</age>
+<market_value>30.0</market_value>
+<nationality>South Korea</nationality>
+<name>Hugo Lloris</name>
+<club>Tottenham</club>
+<age>30</age>
+<market_value>24.0</market_value>
+<nationality>France</nationality>
+<name>Jan Vertonghen</name>
+<club>Tottenham</club>
+<age>30</age>
+<market_value>28.0</market_value>
+<nationality>Belgium</nationality>
+<name>Toby Alderweireld</name>
+<club>Tottenham</club>
+<age>28</age>
+<market_value>35.0</market_value>
+<nationality>Belgium</nationality>
+<name>Victor Wanyama</name>
+<club>Tottenham</club>
+<age>26</age>
+<market_value>25.0</market_value>
+<nationality>Kenya</nationality>
+<name>Eric Dier</name>
+<club>Tottenham</club>
+<age>23</age>
+<market_value>25.0</market_value>
+<nationality>England</nationality>
+<name>Ben Davies</name>
+<club>Tottenham</club>
+<age>24</age>
+<market_value>12.0</market_value>
+<nationality>Wales</nationality>
+<name>Danny Rose</name>
+<club>Tottenham</club>
+<age>27</age>
+<market_value>28.0</market_value>
+<nationality>England</nationality>
+<name>Mousa Dembele</name>
+<club>Tottenham</club>
+<age>30</age>
+<market_value>18.0</market_value>
+<nationality>Belgium</nationality>
+<name>Vincent Janssen</name>
+<club>Tottenham</club>
+<age>23</age>
+<market_value>13.0</market_value>
+<nationality>Netherlands</nationality>
+<name>Kieran Trippier</name>
+<club>Tottenham</club>
+<age>26</age>
+<market_value>10.0</market_value>
+<nationality>England</nationality>
+<name>Moussa Sissokho</name>
+<club>Tottenham</club>
+<age>27</age>
+<market_value>20.0</market_value>
+<nationality>France</nationality>
+<name>Harry Winks</name>
+<club>Tottenham</club>
+<age>21</age>
+<market_value>4.0</market_value>
+<nationality>England</nationality>
+<name>Erik Lamela</name>
+<club>Tottenham</club>
+<age>25</age>
+<market_value>25.0</market_value>
+<nationality>Argentina</nationality>
+<name>Michel Vorm</name>
+<club>Tottenham</club>
+<age>33</age>
+<market_value>4.0</market_value>
+<nationality>Netherlands</nationality>
+<name>Georges-Kevin N%27Koudou</name>
+<club>Tottenham</club>
+<age>22</age>
+<market_value>7.0</market_value>
+<nationality>France</nationality>
+<name>Kevin Wimmer</name>
+<club>Tottenham</club>
+<age>24</age>
+<market_value>7.0</market_value>
+<nationality>Austria</nationality>
+<name>Ã‰tienne Capoue</name>
+<club>Watford</club>
+<age>29</age>
+<market_value>9.0</market_value>
+<nationality>France</nationality>
+<name>Troy Deeney</name>
+<club>Watford</club>
+<age>29</age>
+<market_value>11.0</market_value>
+<nationality>England</nationality>
+<name>Heurelho Gomes</name>
+<club>Watford</club>
+<age>36</age>
+<market_value>1.0</market_value>
+<nationality>Brazil</nationality>
+<name>Jose Holebas</name>
+<club>Watford</club>
+<age>33</age>
+<market_value>2.0</market_value>
+<nationality>Greece</nationality>
+<name>Miguel Britos</name>
+<club>Watford</club>
+<age>32</age>
+<market_value>3.5</market_value>
+<nationality>Uruguay</nationality>
+<name>Sebastian Prodl</name>
+<club>Watford</club>
+<age>30</age>
+<market_value>4.0</market_value>
+<nationality>Austria</nationality>
+<name>Nordin Amrabat</name>
+<club>Watford</club>
+<age>30</age>
+<market_value>4.5</market_value>
+<nationality>Morocco</nationality>
+<name>YounÃ¨s Kaboul</name>
+<club>Watford</club>
+<age>31</age>
+<market_value>2.5</market_value>
+<nationality>France</nationality>
+<name>Tom Cleverley</name>
+<club>Watford</club>
+<age>27</age>
+<market_value>8.0</market_value>
+<nationality>England</nationality>
+<name>Daryl Janmaat</name>
+<club>Watford</club>
+<age>27</age>
+<market_value>7.0</market_value>
+<nationality>Netherlands</nationality>
+<name>Valon Behrami</name>
+<club>Watford</club>
+<age>32</age>
+<market_value>2.5</market_value>
+<nationality>Switzerland</nationality>
+<name>Roberto Pereyra</name>
+<club>Watford</club>
+<age>26</age>
+<market_value>15.0</market_value>
+<nationality>Argentina</nationality>
+<name>Stefano Okaka</name>
+<club>Watford</club>
+<age>27</age>
+<market_value>6.0</market_value>
+<nationality>Italy</nationality>
+<name>Abdoulaye Doucoure</name>
+<club>Watford</club>
+<age>24</age>
+<market_value>6.0</market_value>
+<nationality>France</nationality>
+<name>Kabasele</name>
+<club>Watford</club>
+<age>26</age>
+<market_value>5.5</market_value>
+<nationality>Belgium</nationality>
+<name>Craig Cathcart</name>
+<club>Watford</club>
+<age>28</age>
+<market_value>4.0</market_value>
+<nationality>Northern Ireland</nationality>
+<name>Isaac Success</name>
+<club>Watford</club>
+<age>21</age>
+<market_value>4.0</market_value>
+<nationality>Nigeria</nationality>
+<name>Adrian Mariappa</name>
+<club>Watford</club>
+<age>30</age>
+<market_value>1.0</market_value>
+<nationality>Jamaica</nationality>
+<name>Nathaniel Chalobah</name>
+<club>Watford</club>
+<age>22</age>
+<market_value>5.0</market_value>
+<nationality>England</nationality>
+<name>Mauro Zarate</name>
+<club>Watford</club>
+<age>30</age>
+<market_value>2.0</market_value>
+<nationality>Argentina</nationality>
+<name>Costel Pantilimon</name>
+<club>Watford</club>
+<age>30</age>
+<market_value>3.0</market_value>
+<nationality>Romania</nationality>
+<name>Kiko Femenia</name>
+<club>Watford</club>
+<age>26</age>
+<market_value>4.0</market_value>
+<nationality>Spain</nationality>
+<name>Steven Berghuis</name>
+<club>Watford</club>
+<age>25</age>
+<market_value>5.5</market_value>
+<nationality>Netherlands</nationality>
+<name>Will Hughes</name>
+<club>Watford</club>
+<age>22</age>
+<market_value>8.0</market_value>
+<nationality>England</nationality>
+<name>Gareth McAuley</name>
+<club>West+Brom</club>
+<age>37</age>
+<market_value>1.0</market_value>
+<nationality>Northern Ireland</nationality>
+<name>Salomon Rondon</name>
+<club>West+Brom</club>
+<age>27</age>
+<market_value>15.0</market_value>
+<nationality>Venezuela</nationality>
+<name>Matt Phillips</name>
+<club>West+Brom</club>
+<age>26</age>
+<market_value>9.0</market_value>
+<nationality>Scotland</nationality>
+<name>Ben Foster</name>
+<club>West+Brom</club>
+<age>34</age>
+<market_value>4.0</market_value>
+<nationality>England</nationality>
+<name>Nacer Chadli</name>
+<club>West+Brom</club>
+<age>27</age>
+<market_value>15.0</market_value>
+<nationality>Belgium</nationality>
+<name>Craig Dawson</name>
+<club>West+Brom</club>
+<age>27</age>
+<market_value>6.0</market_value>
+<nationality>England</nationality>
+<name>Chris Brunt</name>
+<club>West+Brom</club>
+<age>32</age>
+<market_value>4.0</market_value>
+<nationality>Northern Ireland</nationality>
+<name>James Morrison</name>
+<club>West+Brom</club>
+<age>31</age>
+<market_value>5.0</market_value>
+<nationality>Scotland</nationality>
+<name>Jonny Evans</name>
+<club>West+Brom</club>
+<age>29</age>
+<market_value>7.0</market_value>
+<nationality>Northern Ireland</nationality>
+<name>Jake Livermore</name>
+<club>West+Brom</club>
+<age>27</age>
+<market_value>7.0</market_value>
+<nationality>England</nationality>
+<name>Allan Nyom</name>
+<club>West+Brom</club>
+<age>29</age>
+<market_value>4.5</market_value>
+<nationality>Cameroon</nationality>
+<name>Jay Rodriguez</name>
+<club>West+Brom</club>
+<age>27</age>
+<market_value>10.0</market_value>
+<nationality>England</nationality>
+<name>Claudio Yacob</name>
+<club>West+Brom</club>
+<age>30</age>
+<market_value>4.0</market_value>
+<nationality>Argentina</nationality>
+<name>James McClean</name>
+<club>West+Brom</club>
+<age>28</age>
+<market_value>3.0</market_value>
+<nationality>Ireland</nationality>
+<name>Hal Robson-Kanu</name>
+<club>West+Brom</club>
+<age>28</age>
+<market_value>2.5</market_value>
+<nationality>Wales</nationality>
+<name>Jonathan Leko</name>
+<club>West+Brom</club>
+<age>18</age>
+<market_value>1.5</market_value>
+<nationality>England</nationality>
+<name>Sam Field</name>
+<club>West+Brom</club>
+<age>19</age>
+<market_value>0.25</market_value>
+<nationality>England</nationality>
+<name>Boaz Myhill</name>
+<club>West+Brom</club>
+<age>34</age>
+<market_value>1.5</market_value>
+<nationality>Wales</nationality>
+<name>Ahmed Hegazy</name>
+<club>West+Brom</club>
+<age>26</age>
+<market_value>1.0</market_value>
+<nationality>Egypt</nationality>
+<name>Robert Snodgrass</name>
+<club>West+Ham</club>
+<age>29</age>
+<market_value>8.0</market_value>
+<nationality>Scotland</nationality>
+<name>Manuel Lanzini</name>
+<club>West+Ham</club>
+<age>24</age>
+<market_value>15.0</market_value>
+<nationality>Argentina</nationality>
+<name>Michail Antonio</name>
+<club>West+Ham</club>
+<age>27</age>
+<market_value>18.0</market_value>
+<nationality>England</nationality>
+<name>Winston Reid</name>
+<club>West+Ham</club>
+<age>29</age>
+<market_value>10.0</market_value>
+<nationality>New Zealand</nationality>
+<name>Jose Fonte</name>
+<club>West+Ham</club>
+<age>33</age>
+<market_value>7.0</market_value>
+<nationality>Portugal</nationality>
+<name>Andre Ayew</name>
+<club>West+Ham</club>
+<age>27</age>
+<market_value>18.0</market_value>
+<nationality>Ghana</nationality>
+<name>Cheikhou Kouyate</name>
+<club>West+Ham</club>
+<age>27</age>
+<market_value>12.0</market_value>
+<nationality>Senegal</nationality>
+<name>Mark Noble</name>
+<club>West+Ham</club>
+<age>30</age>
+<market_value>7.0</market_value>
+<nationality>England</nationality>
+<name>Darren Randolph</name>
+<club>West+Ham</club>
+<age>30</age>
+<market_value>2.5</market_value>
+<nationality>Ireland</nationality>
+<name>James Collins</name>
+<club>West+Ham</club>
+<age>33</age>
+<market_value>2.0</market_value>
+<nationality>Wales</nationality>
+<name>Andy Carroll</name>
+<club>West+Ham</club>
+<age>28</age>
+<market_value>10.0</market_value>
+<nationality>England</nationality>
+<name>Adrian</name>
+<club>West+Ham</club>
+<age>30</age>
+<market_value>8.0</market_value>
+<nationality>Spain</nationality>
+<name>Aaron Cresswell</name>
+<club>West+Ham</club>
+<age>27</age>
+<market_value>12.0</market_value>
+<nationality>England</nationality>
+<name>Pedro Obiang</name>
+<club>West+Ham</club>
+<age>25</age>
+<market_value>9.0</market_value>
+<nationality>Spain</nationality>
+<name>Sofiane Feghouli</name>
+<club>West+Ham</club>
+<age>27</age>
+<market_value>12.0</market_value>
+<nationality>Algeria</nationality>
+<name>Angelo Ogbonna</name>
+<club>West+Ham</club>
+<age>29</age>
+<market_value>9.0</market_value>
+<nationality>Italy</nationality>
+<name>Pablo Zabaleta</name>
+<club>West+Ham</club>
+<age>32</age>
+<market_value>7.0</market_value>
+<nationality>Argentina</nationality>
+<name>Edimilson Fernandes</name>
+<club>West+Ham</club>
+<age>21</age>
+<market_value>5.0</market_value>
+<nationality>Switzerland</nationality>
+<name>Arthur Masuaku</name>
+<club>West+Ham</club>
+<age>23</age>
+<market_value>7.0</market_value>
+<nationality>Congo DR</nationality>
+<name>Sam Byram</name>
+<club>West+Ham</club>
+<age>23</age>
+<market_value>4.5</market_value>
+<nationality>England</nationality>
+<name>Ashley Fletcher</name>
+<club>West+Ham</club>
+<age>21</age>
+<market_value>1.0</market_value>
+<nationality>England</nationality>
+<name>Diafra Sakho</name>
+<club>West+Ham</club>
+<age>27</age>
+<market_value>10.0</market_value>
+<nationality>Senegal</nationality>
+<name>arsene wenger</name>
+<club>arsenal</club>
+<age>55</age>
+<market_value>0.0</market_value>
+<nationality>france</nationality>
+</root>
